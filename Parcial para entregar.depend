@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1590887038 source:c:\users\juli\desktop\progracion proyectos\practica parciales\parcial para entregar\clientes.c
+	"Clientes.h"
+	"Gets.h"
+	<stdio.h>
+	<string.h>
+
+1589838345 c:\users\juli\desktop\progracion proyectos\practica parciales\parcial para entregar\clientes.h
+
+1591651616 source:c:\users\juli\desktop\progracion proyectos\practica parciales\parcial para entregar\clientes_mascotas.c
+	"Clientes_Mascotas.h"
+	"Gets.h"
+	<stdio.h>
+	<string.h>
+
+1591045911 c:\users\juli\desktop\progracion proyectos\practica parciales\parcial para entregar\clientes_mascotas.h
+	"Mascotas.h"
+	"Clientes.h"
+
+1590883904 c:\users\juli\desktop\progracion proyectos\practica parciales\parcial para entregar\mascotas.h
+	"Raza.h"
+
+1591643851 source:c:\users\juli\desktop\progracion proyectos\practica parciales\parcial para entregar\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Clientes_Mascotas.h"
+	"Gets.h"
+
+1589730355 source:c:\users\juli\desktop\progracion proyectos\practica parciales\parcial para entregar\gets.c
+	"Gets.h"
+
+1589670950 c:\users\juli\desktop\progracion proyectos\practica parciales\parcial para entregar\gets.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1590888236 source:c:\users\juli\desktop\progracion proyectos\practica parciales\parcial para entregar\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Mascotas.h"
+	"Gets.h"
+
+1589848002 c:\users\juli\desktop\progracion proyectos\practica parciales\parcial para entregar\raza.h
+
+1590876387 source:c:\users\juli\desktop\progracion proyectos\practica parciales\parcial para entregar\raza.c
+	"Raza.h"
+	<stdio.h>
+	<string.h>
+
